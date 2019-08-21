@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Work Experience
-permalink: /work_experience/
+permalink: /resume/work_experience/
 ---
 
 Here is a listing of all my past work experience, from most to least recent.

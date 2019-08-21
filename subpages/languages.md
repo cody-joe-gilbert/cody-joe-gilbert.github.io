@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Programming Languages
-permalink: /prog_languages/
+permalink: /resume/prog_languages/
 ---
 
 The following are the programming languages in which I am proficient:
