@@ -20,21 +20,20 @@ This page contains an extended version of my resume to provide additional inform
 #### Graduate <a name="graduate"></a>
 
 * **Degree:** Master of Science - Computer Science
-* **Dates:** May 2018 to Present
-* **School:** New York University, Courant Institute of Mathematical Sciences
+* **Dates:** May 2018 to May 2020
+* **School:** [New York University, Courant Institute of Mathematical Sciences]( https://cs.nyu.edu/home/index.html )
 * **Location:** New York, New York
-* **GPA:** 3.7/4.0
-* **Relevant Coursework:** Algorithms, Programming Languages, Operating Systems, Statistical Learning, Probability Theory, Database Systems, Artificial Intelligence, Big Data Application Development, Big Data Analytics
+* **GPA:** 3.8/4.0
+* **Relevant Coursework:** Algorithms, Programming Languages, Operating Systems, Probability Theory, Database Systems, Artificial Intelligence, Big Data Application Development, Big Data Analytics
 
 #### Undergraduate <a name="undergraduate"></a>
 
 * **Degree:** Bachelor of Science - Nuclear Engineering
-* **School:** North Carolina State University, College of Engineering
+* **School:** [North Carolina State University, College of Engineering]( https://www.ncsu.edu/ )
 * **Location:** Raleigh, North Carolina
 * **GPA:** 4.0/4.0
-* **Honors and Activities:** Valedictorian, Summa Cum Laude, Senior Design Team Leader, Dean's List (6), University Scholars Program, American Nuclear Society Member, Eagle Scout
-* **Scholarships:** American Nuclear Society Robert G. Lacy Scholarship, CASL Undergraduate Scholar, American Nuclear Society Operations and Power Division Scholarship, American Nuclear Society National Sophomore Scholarship, Nuclear Engineering University Program Scholarship
-
+* **Honors and Activities:** Valedictorian, Summa Cum Laude, Senior Design Team Leader, Dean's List (x6), [University Scholars Program]( https://scholars.dasa.ncsu.edu/ ), [American Nuclear Society Student Member]( http://www.ans.org/ )
+* **Scholarships:** [American Nuclear Society Robert G. Lacy Scholarship]( http://www.ans.org/honors/scholarships/programs/ ), [CASL Undergraduate Scholar]( https://www.casl.gov/ ), [American Nuclear Society Operations and Power Division Scholarship]( http://www.ans.org/honors/scholarships/programs/ ), [American Nuclear Society National Sophomore Scholarship]( http://www.ans.org/honors/scholarships/programs/ ), [Nuclear Engineering University Program Scholarship]( https://neup.inl.gov/SitePages/Home.aspx ), [Rotary Scholarship]( https://www.rotary.org/en/our-programs/scholarships ), Troop 566 Eagle Scout Scholarship
 ***
 
 ### [Programming Languages]({{ site.url }}/resume/prog_languages/) (click for details)  <a name="programming_languages"></a>
@@ -61,25 +60,25 @@ This page contains an extended version of my resume to provide additional inform
 
 #### Research Assistant
 
-* **Organization:** New York University
+* **Organization:** [New York University]( https://cims.nyu.edu/ )
 * **Location:** New York, NY
 * **Dates:** Jan 2019 - July 2019
-* **Description:** Research assistant under Professor Benjamin Peherstorfer in model reduction methods. This role involved applying model reduction methods including Proper Orthogonal Decomposition (POD), Discrete Empirical Interpolation Method (DEIM), and Adaptive Discrete Empirical Interpolation Method (ADEIM) on a simulated rocket combustion model to accelerate the computation of approximate state solutions.
+* **Description:** I worked as a research assistant under Professor Benjamin Peherstorfer in model reduction methods. This role involved applying model reduction methods including Proper Orthogonal Decomposition (POD), Discrete Empirical Interpolation Method (DEIM), and Adaptive Discrete Empirical Interpolation Method (ADEIM) on a simulated rocket combustion model to accelerate the computation of approximate state solutions. All methods were created using Matlab.
 
 #### Recitation Leader
 
-* **Organization:** New York University
+* **Organization:** [New York University]( https://cims.nyu.edu/ )
 * **Location:** New York, NY
 * **Dates:** Jan 2019 - May 2019
-* **Description:** Worked with Professor Antoine Cerfon to give weekly supplementary fluid dynamics instruction to a class of 15-20 students. Ciriculum included vector calculus, thermodynamics, Euler equations and associated solutions, the Navier-Stokes equations and approximations, and other mechanical principles.
+* **Description:** I worked as a recitation leader for a Fluid Dynamics course during the Spring 2019 semester. This role involved working with Professor Antoine Cerfon to give weekly supplementary fluid dynamics instruction to a class of 15-20 students. Curriculum included vector calculus, thermodynamics, Euler equations and associated solutions, the Navier-Stokes equations and approximations, and other mechanical principles.
 
 #### Nuclear Fuel Engineer (Nuclear Engineer II)
 
-* **Organization:** Duke Energy
+* **Organization:** [Duke Energy]( https://www.duke-energy.com/home )
 * **Location:** Charlotte, NC
 * **Dates:** June 2015 - Jan 2018
 * **Description:** I worked as a nuclear fuel engineer for the Duke Energy utility company in supporting the operations and refueling campaigns of the Brunswick Nuclear Plant. My duties included:
-	* Supporting periodic plant operations by preparing power and safetly margin projections using core simulation software (Framatome MICROBURN-B2 and POWERPLEX)
+	* Supporting periodic plant operations by preparing power and safety margin projections using core simulation software (Framatome MICROBURN-B2 and POWERPLEX)
 	* Creating design calculations to support biannual core reload that verified core shuffle sub-criticality, control blade material integrity, and startup operation safety margins
 	* Provided emergent issue support, including the creation of high-quality engineering designs under tight time constraints
 	* Generated short-term and long-term power and core operation predictions using core modeling software
