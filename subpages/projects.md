@@ -20,6 +20,14 @@ Here you can find the projects I've worked on that span over my academic and pro
 
 ### Professional Projects <a name="professional"></a>
 
+#### FuzzyPanda <a name="tutorials"></a>
+
+* **Status:** Active
+* [Github Repository]( https://github.com/cody-joe-gilbert/fuzzypanda/releases )
+* [FuzzyPanda Page]({{ site.url }}/projects/fuzzypanda/)
+* **Skills:** Python, Markdown, approximate string matching, pandas, development
+* **Description:** FuzzyPanda was created to support fuzzy join operations with [Pandas]( https://pandas.pydata.org/ ) [DataFrames]( https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html ) using Python Ver. 3. These fuzzy joins are a form of [approximate string matching]( https://en.wikipedia.org/wiki/Approximate_string_matching ) to join relational data that contain "errors" or minor modifications that preclude direct string comparison. 
+
 #### Python Tutorial Writing <a name="tutorials"></a>
 
 * **Status:** Active
