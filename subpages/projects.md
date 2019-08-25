@@ -8,6 +8,7 @@ Here you can find the projects I've worked on that span over my academic and pro
 
 
 * [Professional Projects](#professional)
+	* [FuzzyPanda](#fuzzypanda)
 	* [Python Tutorial Writing](#tutorials)
 	* [Brunswick Nuclear Core Reload](#brunswick)
 * [Academic Projects](#academic)
@@ -20,7 +21,7 @@ Here you can find the projects I've worked on that span over my academic and pro
 
 ### Professional Projects <a name="professional"></a>
 
-#### FuzzyPanda <a name="tutorials"></a>
+#### FuzzyPanda <a name="fuzzypanda"></a>
 
 * **Status:** Active
 * [Github Repository]( https://github.com/cody-joe-gilbert/fuzzypanda/releases )

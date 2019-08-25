@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FuzzyPanda
-permalink: /projects/fuzzypanda
+permalink: /projects/fuzzypanda/
 ---
 
 * [Github Repository]( https://github.com/cody-joe-gilbert/fuzzypanda/releases )
