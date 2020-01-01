@@ -49,6 +49,10 @@ This page contains an extended version of my resume to provide additional inform
 	* R
 	* SQL
 * Applications
+	* RapidMiner
+	* PostgreSQL
+	* Flask
+	* Dash
 	* Hadoop
 	* Spark
 	* LaTeX
@@ -57,6 +61,22 @@ This page contains an extended version of my resume to provide additional inform
 ***
 
 ### [Work Experience]({{ site.url }}/resume/work_experience/) (click for details) <a name="work_experience"></a>
+
+
+#### Data Analyst Intern
+
+* **Organization:** [Betterfin]( https://betterfin.com/ )
+* **Location:** Brooklyn, NY
+* **Dates:** Aug 2019 - Present
+* **Description:** This internship focused on implementing APIs with Python to connect disparate data sources (external CRM databases, US Census open source APIs, internal PostgreSQL servers, etc.) to a common data lake, and to perform data analysis on the aggregated records.
+These analyses focused on providing actionable information to small businesses seeking additional capital, such as:
+	* Finding yearly trends Startup Early Survival Rate for a given US region using data extracted from the Kauffman Indicators of Entrepreneurship to determine what industries within that region have the highest chances of long-term success
+	* Evaluating small business owner sentiment on acquiring additional funding using US Census Annual Business Survey (ABS) data
+	* Finding average employee payroll and wages for a given US region and industry using U.S. Bureau of Labor Statistics data, which small business owners can use to evaluate their standing in comparison to their peers.
+This position also included several development projects:
+	* Creating tools to interface local Python applications to external PostgreSQL databases
+	* Building interactive visual dashboards using Flask and Dash.
+	* Creating a fuzzy-search method within a moderately-large database (>30 million records) using a combination of PostgreSQL trigram indexing and machine learning to estimate the match likelihood of two vectors of business identifying information
 
 #### Research Assistant
 

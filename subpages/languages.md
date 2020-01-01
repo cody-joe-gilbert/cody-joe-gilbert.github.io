@@ -17,6 +17,10 @@ The following are the programming languages in which I am proficient:
 	* [R](#r)
 	* [SQL](#sql)
 * [Applications](#applications)
+	* [RapidMiner](#rapidminer)
+	* [PostgreSQL](#postgres)
+	* [Flask](#flask)
+	* [Dash](#dash)
 	* [Hadoop](#hadoop)
 	* [Spark](#spark)
 	* [LaTeX](#latex)
@@ -36,7 +40,7 @@ These are the languages I've used to develop applications in both professional a
 
 
 #### Python <a name="python"></a>
-**Skill Level:** 8/10
+**Skill Level:** 9/10
 
 Python is my dynamically-typed language of choice for development, automated analysis, and ad-hoc analyses. 
 I've published numerous tutorials on Python coding on the tutorial website [rwells.com]( https://wellsr.com/python ), the links of which can be found on my [Python Tutorials]({{ site.url }}/projects/python_tutorials/) page.
@@ -93,9 +97,28 @@ I've used R primarily in academic studies and projects for data analysis and mac
 ## Applications <a name="applications"></a>
 These are the applications/APIs I've used in various projects. 
 
+#### RapidMiner <a name="rapidminer"></a>
+**Skill Level:** 4/10
+
+I've used RapidMiner in academic projects to quickly create machine learning models for project scoping and profiling. My primary exposure to RapidMiner was during a class in Predictive Analytics.
+
+#### PostgreSQL <a name="postgres"></a>
+**Skill Level:** 5/10
+
+I implemented several PostgreSQL solutions during my internship at Betterfin, which included installation, database transfer, design, and common queries. I implemented custom functions using the built-in PostgreSQL trgm indexing along with a trained logistic function to perform fuzzy-searches of small businesses within database tables.
+
+#### Flask <a name="flask"></a>
+**Skill Level:** 3/10
+
+I've used Flask to build an tool for business identifier fuzzy-searching during my internship with Betterfin. Flask was used to build an internal website for teammates to query businesses without the need to directly use SQL. 
+
+#### Dash <a name="dash"></a>
+**Skill Level:** 3/10
+
+Dash was used during my internship at Betterfin to build an interactive BI reporting page that automatically fetched data from various databases to display informative visualizations. 
 
 #### Hadoop <a name="hadoop"></a>
-**Skill Level:** 4/10
+**Skill Level:** 5/10
 
 I've taken formal classes on the Hadoop ecosystem and its underlying software such as YARN, HDFS, Hive, HBase, and MapReduce. These courses focused on user applications and projects, with minor discussions on Hadoop administration. See an example project using [Hadoop tools here]({{ site.url }}/projects/#napa). 
 
