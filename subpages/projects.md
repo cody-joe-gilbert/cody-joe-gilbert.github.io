@@ -12,6 +12,7 @@ Here you can find the projects I've worked on that span over my academic and pro
 	* [Python Tutorial Writing](#tutorials)
 	* [Brunswick Nuclear Core Reload](#brunswick)
 * [Academic Projects](#academic)
+    * [Sarcasm Modeling with NLP](#sarcasm)
 	* [HMDA Data Exploration with Spark](#hmda)
 	* [Finding Napa](#napa)
 	* [Machine Learning Projects with R](#statlearn)
@@ -44,6 +45,15 @@ Here you can find the projects I've worked on that span over my academic and pro
 * **Description:** During my career as a nuclear fuel engineer for Duke Energy I participated in several core reloads for the Brunswick Nuclear Plant. These core reloads required a multitude of engineering designs and formal documents to support both technical and regulatory requirements. One example of an engineering product I created is the above Core Operating Limits Report (COLR) for operation of Brunswick Unit 2 during Cycle 23. This report details the limits of core operation over the two year fuel cycle, which were established from a series of engineering design calculations and documents.
 
 ### Academic Projects <a name="academic"></a>
+
+#### Sarcasm Modeling with NLP <a name="sarcasm"></a>
+
+* **Status:** Complete
+* [Github Repository]( https://github.com/cody-joe-gilbert/sarcasm_modeling )
+* [Paper]( https://github.com/cody-joe-gilbert/sarcasm_modeling/blob/master/reports/final_report.pdf )
+* **Skills:** Python, Keras, Tensorflow, Natural Language Processing (NLP), BERT
+* **Description:** This project sought to classify [Reddit](https://www.reddit.com/) as sarcastic or non-sarcastic using a suite of NLP models
+including BERT, Keras with Tensorflow, and sklearn with Python. 
 
 #### HMDA Data Exploration with Spark <a name="hmda"></a>
 

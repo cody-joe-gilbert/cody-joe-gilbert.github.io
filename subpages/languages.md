@@ -12,11 +12,13 @@ The following are the programming languages in which I am proficient:
 	* [Scala](#scala)
 	* [OCaml](#ocaml)
 	* [Fortran](#fortran)
+	* [Go](#go)
 * [Analysis Languages](#analysis_languages)
 	* [Matlab](#matlab)
 	* [R](#r)
 	* [SQL](#sql)
 * [Applications](#applications)
+    * [Hyperledger Fabric](#hyperfabric)
 	* [RapidMiner](#rapidminer)
 	* [PostgreSQL](#postgres)
 	* [Flask](#flask)
@@ -70,6 +72,12 @@ I've used OCaml during academic studies at NYU on functional programming languag
 
 This extremely old imperative language is still in use within the nuclear and scientific computing fields. I've used Fortran in my undergraduate career and in my role as a Nuclear Fuels Engineer at Duke Energy. Most nuclear simulation codes such as Framatome MICROBURN-B2 and POWERPLEX are written in Fortran to optimize for fast calculations.
 
+
+#### Go (Golang) <a name="go"></a>
+**Skill Level:** 3/10
+
+I've used Go predominantly to implement Smart Contracts within the Hyperledger Fabric blockchain application framework. My experience with this relatively-simple language has so far been limited to only this application, however the simplicity of the language itself makes it easy to extend to further applications.
+
 ***
 
 ## Analysis Languages <a name="analysis_languages"></a>
@@ -96,6 +104,11 @@ I've used R primarily in academic studies and projects for data analysis and mac
 
 ## Applications <a name="applications"></a>
 These are the applications/APIs I've used in various projects. 
+
+#### Hyperledger Fabric <a name="hyperfabric"></a>
+**Skill Level:** 3/10
+
+[Hyperledger Fabric (HF)](https://www.hyperledger.org/projects/fabric) is an open-source permissioned distributed ledger (blockchain) framework. I've used HF within the NYU Spring 2020 "Blockchain & its Applications" class, with a couple of projects built with the framework.
 
 #### RapidMiner <a name="rapidminer"></a>
 **Skill Level:** 4/10

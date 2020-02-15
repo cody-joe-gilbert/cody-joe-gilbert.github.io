@@ -24,7 +24,7 @@ This page contains an extended version of my resume to provide additional inform
 * **School:** [New York University, Courant Institute of Mathematical Sciences]( https://cs.nyu.edu/home/index.html )
 * **Location:** New York, New York
 * **GPA:** 3.8/4.0
-* **Relevant Coursework:** Algorithms, Programming Languages, Operating Systems, Probability Theory, Database Systems, Artificial Intelligence, Big Data Application Development, Big Data Analytics
+* **Relevant Coursework:** Algorithms, Programming Languages, Operating Systems, Probability Theory, Database Systems, Artificial Intelligence, Big Data Application Development, Big Data Analytics, Statistical Natural Language Processing, Predictive Analytics, Blockchain & its Applications, High-Performance Machine Learning
 
 #### Undergraduate <a name="undergraduate"></a>
 
@@ -44,6 +44,7 @@ This page contains an extended version of my resume to provide additional inform
 	* Scala
 	* OCaml
 	* Fortran
+	* Go
 * Analysis Languages
 	* Matlab
 	* R
